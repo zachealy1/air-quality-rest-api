@@ -1,6 +1,8 @@
 # Air Quality REST API
 This RESTful web service provides information about air quality in different regions. The primary resources include countries, cities, and corresponding air quality index (AQI) data. The AQI values are categorized based on different pollutants such as CO (Carbon Monoxide), Ozone, NO2 (Nitrogen Dioxide), and PM2.5 (Particulate Matter).
 
+**This work was completed as a part of my undergraduate degree in Applied Software Engineering at Swansea University, which CGI Inc. sponsored.**
+
 ## Project Structure
 
 The project is organized as follows:
